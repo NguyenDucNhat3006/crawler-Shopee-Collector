@@ -1,0 +1,23 @@
+{
+  "seeds": ["https://shopee.vn/"],
+  "keywords": [
+    "điện thoại", "laptop", "tai nghe", "áo thun nam", "váy nữ", "giày thể thao",
+    "túi xách", "đồng hồ", "mỹ phẩm", "sữa rửa mặt", "tã em bé", "sữa bột",
+    "đồ gia dụng", "nồi cơm điện", "thực phẩm", "sách", "văn phòng phẩm",
+    "dụng cụ thể thao", "phụ kiện ô tô", "thức ăn thú cưng"
+  ],
+  "max_pages_per_run": 60,
+  "max_products_per_run": 30,
+  "max_queue_size": 2000,
+  "listing_pages_per_seed": 2,
+  "review_pages_per_product": 2,
+  "scroll_steps": 6,
+  "delay_ms": 5000,
+  "settle_ms": 1200,
+  "network_price_divisor": 100000,
+  "browser_channel": "",
+  "selectors": {
+    "listing_next": ".shopee-page-controller .shopee-icon-button--right",
+    "review_next": ".product-ratings .shopee-page-controller .shopee-icon-button--right"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "NOTICE": "SYNTHETIC TEST DATA — NOT SCRAPED FROM SHOPEE",
+  "data": {
+    "item": {
+      "shopid": 99900001, "itemid": 99900002,
+      "name": "[GIẢ LẬP] Áo thun nam demo", "currency": "VND",
+      "description": "Sản phẩm giả lập để kiểm tra phần mềm, không có thật trên Shopee.",
+      "price": 9900000000, "price_min": 9900000000, "price_max": 12900000000,
+      "sold": 12, "historical_sold": 145,
+      "shop_info": {"name": "SHOP GIẢ LẬP", "username": "synthetic_test_shop"},
+      "item_rating": {"rating_star": 4.8, "rating_count": [2, 0, 0, 0, 0, 2]},
+      "categories": [{"catid": 9991, "display_name": "Danh mục giả lập"}, {"catid": 9992, "display_name": "Áo thun demo"}],
+      "tier_variations": [{"name": "Màu", "options": ["Đen", "Trắng"]}, {"name": "Size", "options": ["M", "L"]}],
+      "models": [
+        {"modelid": 999101, "name": "Đen,M", "price": 9900000000, "stock": 10, "extinfo": {"tier_index": [0, 0]}},
+        {"modelid": 999102, "name": "Trắng,L", "price": 12900000000, "stock": 0, "extinfo": {"tier_index": [1, 1]}}
+      ]
+    },
+    "ratings": [
+      {"cmtid": 888001, "itemid": 99900002, "shopid": 99900001, "rating_star": 5, "comment": "[GIẢ LẬP] Mẫu review dùng cho kiểm thử.", "ctime": 1700000000, "author_username": "DO_NOT_EXPORT"},
+      {"cmtid": 888002, "itemid": 99900002, "shopid": 99900001, "rating_star": 4, "comment": "[GIẢ LẬP] Màu đúng phân loại đã chọn.", "ctime": 1700000100}
+    ]
+  }
+}

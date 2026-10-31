@@ -1,0 +1,22 @@
+[
+  {"label":"Điện thoại & phụ kiện", "keywords":["điện thoại", "ốp lưng", "iphone", "cáp sạc", "pin dự phòng"]},
+  {"label":"Máy tính & thiết bị văn phòng", "keywords":["laptop", "bàn phím", "chuột máy tính", "máy in", "ssd", "ram"]},
+  {"label":"Thiết bị âm thanh & hình ảnh", "keywords":["tai nghe", "loa bluetooth", "micro", "máy ảnh", "tivi"]},
+  {"label":"Thời trang nam", "keywords":["áo nam", "quần nam", "áo thun nam", "sơ mi nam", "quần jean nam"]},
+  {"label":"Thời trang nữ", "keywords":["váy", "đầm", "áo nữ", "quần nữ", "chân váy"]},
+  {"label":"Giày dép", "keywords":["giày", "dép", "sandal", "sneaker"]},
+  {"label":"Túi ví & phụ kiện thời trang", "keywords":["túi xách", "balo", "ví", "thắt lưng", "kính mát"]},
+  {"label":"Đồng hồ & trang sức", "keywords":["đồng hồ", "vòng tay", "dây chuyền", "bông tai", "nhẫn"]},
+  {"label":"Làm đẹp", "keywords":["mỹ phẩm", "son môi", "sữa rửa mặt", "kem chống nắng", "serum", "dầu gội"]},
+  {"label":"Chăm sóc cá nhân", "keywords":["băng vệ sinh", "kem đánh răng", "bàn chải", "khẩu trang", "dao cạo"]},
+  {"label":"Mẹ & bé", "keywords":["tã em bé", "bỉm", "bình sữa", "sữa bột", "xe đẩy em bé"]},
+  {"label":"Nhà cửa & đời sống", "keywords":["đồ gia dụng", "chăn", "ga giường", "gối", "kệ", "hộp đựng"]},
+  {"label":"Điện gia dụng", "keywords":["nồi cơm điện", "nồi chiên", "máy hút bụi", "ấm siêu tốc", "quạt điện"]},
+  {"label":"Thực phẩm & đồ uống", "keywords":["thực phẩm", "cà phê", "trà", "bánh", "kẹo", "nước ngọt"]},
+  {"label":"Sách & văn phòng phẩm", "keywords":["sách", "văn phòng phẩm", "bút", "vở", "sổ tay"]},
+  {"label":"Thể thao & du lịch", "keywords":["dụng cụ thể thao", "bóng đá", "vợt", "thảm yoga", "lều", "vali"]},
+  {"label":"Ô tô & xe máy", "keywords":["phụ kiện ô tô", "phụ kiện xe máy", "mũ bảo hiểm", "dầu nhớt"]},
+  {"label":"Chăm sóc thú cưng", "keywords":["thức ăn thú cưng", "thức ăn cho mèo", "thức ăn cho chó", "cát mèo"]},
+  {"label":"Đồ chơi", "keywords":["đồ chơi", "lego", "búp bê", "xe mô hình"]},
+  {"label":"Dụng cụ & làm vườn", "keywords":["máy khoan", "tua vít", "hạt giống", "phân bón", "chậu cây"]}
+]
